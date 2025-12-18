@@ -1,4 +1,4 @@
-# PRODIGY_CS_01 — Password Strength Checker
+# PRODIGY_CS_03 — Password Strength Checker
 
 
 Author: Adhi Narayan  
